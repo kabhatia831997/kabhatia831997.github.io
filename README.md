@@ -23,11 +23,11 @@
     <section>
         <h2>Achievements</h2>
         <label for="file">Progress in this course</label>
-        <progress id="file" value="100" max="100">100%</progress>
+        <progress id="file" value="100" max="100">100%</progress><br>
         <label for="file">Progress in the Specialization Capstone</label>
-        <progress id="file" value="20" max="100">20%</progress>
+        <progress id="file" value="20" max="100">20%</progress><br>
         <label for="file">Progress in life goals</label>
-        <progress id="file" value="67" max="100">67%</progress>
+        <progress id="file" value="67" max="100">67%</progress><br>
     </section
 </body>
 </html>
