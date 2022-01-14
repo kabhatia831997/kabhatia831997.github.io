@@ -22,5 +22,7 @@
     </section>
     <section>
         <h2>Achievements</h2>
+        <label for="file">Progress in this course</label>
+        <progress id="file" value="100" max="100">100%</progress>
 </body>
 </html>
