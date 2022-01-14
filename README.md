@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>HTML5Project.png 986x772 pixels</title>
 </head>
 <body>
     
