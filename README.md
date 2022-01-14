@@ -13,5 +13,11 @@
     <a href="https://crypto.com">Crypto</a>
     <section>
         <h2>Favourite Foods</h2>
+        <ul>
+            <li>Apples</li>
+            <li>Pizza</li>
+            <li>Crab</li>
+            <li>Chocolate Cake</li>
+        </ul>
 </body>
 </html>
