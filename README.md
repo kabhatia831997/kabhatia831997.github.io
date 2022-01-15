@@ -24,10 +24,23 @@
         <h2>Achievements</h2>
         <label for="file">Progress in this course</label>
         <progress id="file" value="100" max="100">100%</progress><br>
-        <label for="file">Progress in the Specialization Capstone</label>
-        <progress id="file" value="20" max="100">20%</progress><br>
-        <label for="file">Progress in life goals</label>
-        <progress id="file" value="67" max="100">67%</progress><br>
-    </section
+        <label for="file2">Progress in the Specialization Capstone</label>
+        <progress id="file2" value="20" max="100">20%</progress><br>
+        <label for="file3">Progress in life goals</label>
+        <progress id="file3" value="67" max="100">67%</progress><br>
+    </section>
+    <section>
+        <h2>More About Me</h2>
+        <details>
+        <summary>My Childhood</summary>
+        <p>I grew up in Dubai, U.A.E. I lived near Dubai Festival City and I really miss the convenience of going out whenever I wanted.</p>
+        </details>
+    </section>
+    <footer>
+    <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="footer logo"><p>This page was created by Kartikey Bhatia & Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com" target="_blank">Intro to web design</a></p>
+    </footer>
+</body>
+</html>
+    
 </body>
 </html>
